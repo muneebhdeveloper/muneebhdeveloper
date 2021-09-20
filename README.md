@@ -7,7 +7,24 @@
 
 🧰 My Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="JavaScript Logo" height="50"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="JavaScript Logo" height="50"/>
+Languages
+
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" height="50"/>
+
+Frontend
+
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="JavaScript Logo" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="JavaScript Logo" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="JavaScript Logo" height="50"/>
+
+Backend
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="JavaScript Logo" height="50"/>
+
+Database
+
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="JavaScript Logo" height="50"/>
+
+
+     
 
 ---
 

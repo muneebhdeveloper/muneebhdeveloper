@@ -9,7 +9,7 @@
 
 Languages
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" height="50"/>
 
 Frontend
 
@@ -21,7 +21,7 @@ Mobile
 
 Backend
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Nodejs" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Nodejs" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" height="50"/>
 
 Database
 

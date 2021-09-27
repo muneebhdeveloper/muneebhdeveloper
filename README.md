@@ -13,7 +13,7 @@ Languages
 
 Frontend
 
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="Nuxt" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="Nuxt" height="50"/>
 
 Mobile
 
